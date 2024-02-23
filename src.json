@@ -1,0 +1,21 @@
+{
+	"pallette": {
+		"original": [[67,82,61], [199,240,216]],
+		"harsh": [[43,63,9], [155,199,0]],
+		"gray": [[26,25,20], [135,145,136]]
+	},
+	"display": {
+		"size": [84, 48],
+		"pix": 8,
+		"fps": 10,
+		"pallette": "gray",
+		"border": 0,
+		"volume": 0.2,
+		"lang": "en"
+	},
+	"gamelimit":{
+		"pingpong": 5,
+		"taggame": 300,
+		"snakegame": 5
+	}
+}
